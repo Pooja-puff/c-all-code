@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EmpDb>
+  <EmpRec>
+    <Empid>101</Empid>
+      <EName>Pooja</EName>
+      <Empjob>Business</Empjob>
+      <EmpSalary>500000</EmpSalary>
+    <EmpComission>abc</EmpComission>
+    <EmpDepartment>IT</EmpDepartment>
+   </EmpRec>
+  <EmpRec>
+    <Empid>102</Empid>
+    <EName>Priya</EName>
+    <Empjob>Software Developer</Empjob>
+    <EmpSalary>800000</EmpSalary>
+    <EmpComission>xyz</EmpComission>
+    <EmpDepartment>IT</EmpDepartment>
+ </EmpRec>
+</EmpDb>
